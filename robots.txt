@@ -1,1 +1,1 @@
-Allow: /sitemap: https://17chiguaw.pages.dev/sitemap.xml
+Allow: /sitemap: https://mob362.pages.dev/sitemap.xml
